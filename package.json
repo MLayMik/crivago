@@ -17,6 +17,7 @@
     "eslint-plugin-readable-tailwind": "^1.8.2",
     "express": "^4.21.2",
     "path": "^0.12.7",
+    "query-string": "^9.1.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router": "^7.0.2",
